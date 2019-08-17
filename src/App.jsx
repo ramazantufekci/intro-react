@@ -34,7 +34,7 @@ class App extends React.Component {
   }
 
   /*Write an addStudent method here*/
-  addStudent(students)
+  addStudent(studentName)
   {
 	  let studentName=students;
   }
